@@ -1,1 +1,3 @@
+# this is a list of ideas of how to improve my setup.
 Get new GIT gui client for Manjaro
+Find out why leafpad shows warnings when it starts up.
