@@ -2,4 +2,4 @@
 Get new GIT gui client for Manjaro
 Find out why leafpad shows warnings when it starts up.
 Read Git Pro book.
-Get zine for Git from Julia Evans
+Get zine for Git from Julia Evans at https://wizardzines.com/
