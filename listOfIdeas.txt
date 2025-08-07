@@ -1,4 +1,4 @@
-# this is a list of ideas of how to improve my setup.
+# this is a list of ideas of how to improve my setup. August 7th, 2025
 Get new GIT gui client for Manjaro and Pi
 Find out why leafpad shows warnings when it starts up.
 Read Git Pro book and at least one other.
