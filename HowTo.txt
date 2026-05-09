@@ -2,4 +2,6 @@ this file is used to try to add a file from gitg menu (not the command line)
 
 Now I have modified it from the command line in linux and pushed it back.
 
+this was modified in gedit May 9th 2026
+
 
