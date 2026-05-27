@@ -4,6 +4,6 @@ Now I have modified it from the command line in linux and pushed it back.
 
 this was modified in gedit May 9th 2026
 
-And also modified in the browser at github
+And also modified in the browser at GitHub
 
 
